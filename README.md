@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex Zhou from China.Working as an electrical engineer in an international company.
+- 👋 Hi, I’m Alex Zhou from China.Working as an electrical engineer in Komax AG.
 - 👀 I’m interested in PLC,IOT,IT & new technology.
 - 🌱 I’m currently learning Beckhoff system with TwinCAT3.
 - 💞️ I’m looking to collaborate on industrical automation and IIOT fileds.
